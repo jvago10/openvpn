@@ -1,8 +1,7 @@
 #!/bin/bash
 #
-# https://github.com/Nyr/openvpn-install
 #
-# Copyright (c) 2013 Nyr. Released under the MIT License.
+# 2023 José Vargas Gonzales - Intertech.network
 
 
 # Detect Debian users running the script with "sh" instead of bash
