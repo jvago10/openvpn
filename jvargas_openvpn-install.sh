@@ -1,6 +1,5 @@
 #!/bin/bash
 #
-# 
 #
 # Copyright (c) 2023 JOSE VARGAS Released under the MIT License.
 
