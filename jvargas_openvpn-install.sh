@@ -1,6 +1,4 @@
 #!/bin/bash
-#
-#
 # Copyright (c) 2023 Jose Vargas Gonzales | jose.vargas@intertech.network Released under the MIT License.
 
 
